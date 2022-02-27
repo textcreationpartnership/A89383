@@ -1,0 +1,205 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A motion from the armie of their severall requests to the Parliament: with the votes and proceedings of both Houses upon the same.</title>
+            <author>England and Wales. Army.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A89383</idno>
+            <idno type="STC">Wing M2938</idno>
+            <idno type="STC">Thomason E391_5</idno>
+            <idno type="STC">ESTC R201549</idno>
+            <idno type="EEBO-CITATION">99862048</idno>
+            <idno type="PROQUEST">99862048</idno>
+            <idno type="VID">160261</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A89383)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 160261)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 62:E391[5])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A motion from the armie of their severall requests to the Parliament: with the votes and proceedings of both Houses upon the same.</title>
+                  <author>England and Wales. Army.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for R. Simpson,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1667. [i.e. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Printed in fact in 1647.</note>
+                  <note>Signatures: [A]⁴.</note>
+                  <note>Annotation on Thomason copy: "June 7th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England and Wales. --  Army --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:160261:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>A MOTION FROM THE ARMIE OF Their ſeverall Requeſts to the PARLIAMENT WITH The Votes and proceedings of both Houſes upon the ſame.</p>
+            <p>
+               <hi>London</hi> Printed for <hi>R. Simpſon,</hi> 1667.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:160261:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:160261:2"/>
+            <!-- PDF PAGE 87 -->
+            <head>MORE NEVVES FROM THE ARMY</head>
+            <p n="1">
+               <hi>I.</hi> THat whereas it pleaſes the honourable Houſes of Parliament, upon miſ-infor<g ref="char:EOLhyphen"/>mation falſly ſuggeſted unto them, to declare
+<pb facs="tcp:160261:3"/>
+               <!-- PDF PAGE 88 -->and immediatly publiſh in print to the king<g ref="char:EOLunhyphen"/>dome, that the Petition of the Army, being but only an intention, did tend to put the army into a diſtemper and mutiny, to ob<g ref="char:EOLhyphen"/>ſtruct the relief of Ireland, and to put condi<g ref="char:EOLhyphen"/>tions upon the Parliament, and declaring the petitioners if they ſhall proceed therein, no leſſe then Enemies to the State, and diſtur<g ref="char:EOLhyphen"/>bers to the publique peace, which ſaid heavy charge remaining upon record, we cannot chuſe but be deeply ſenſible thereof, &amp; with amazement wonder, how ſo humble and in<g ref="char:EOLhyphen"/>nocent addreſſe, intended to the generall, could beget ſo ſtrange an interpretati<g ref="char:EOLhyphen"/>on.</p>
+            <p>
+               <hi>The Houſe of Commons have voted to call in the ſaid Declaration according to this Propoſiti<g ref="char:EOLhyphen"/>on, and that it ſhall not remaine upon Record a<g ref="char:EOLhyphen"/>gainſt them, and the concurrence of the Lords de<g ref="char:EOLhyphen"/>ſired therein.</hi>
+            </p>
+            <p n="2">II. Thet whereas thoſe perſons that haue at<g ref="char:EOLhyphen"/>tempted to beget and attempt, and fo<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap> diviſions between the Parliament and their army, by their ſurrepticion<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; obtaining and
+<pb facs="tcp:160261:3"/>
+               <!-- PDF PAGE 88 -->miſ-repreſenting our petitions, and by pro<g ref="char:EOLhyphen"/>ducing other ſcandalous letters from un<g ref="char:EOLhyphen"/>known hands by them produced, the Au<g ref="char:EOLhyphen"/>thors whe are concealed, and not brought forth to make a judiciall proofe of thoſe things laid to our charge which we cannot but look upon as a juſt cauſe of griefe, that the ſuggeſtors of ſuch untruths ſeeme to bee incouraged, and we who are innocent remain unjuſtified.</p>
+            <p n="3">III. That divers Officers of the Army of pub<g ref="char:EOLhyphen"/>like and known integrity, have been (uppon what grounds we know not) ſent for to the Parliament as Celinquents; ſome whereof do at this preſent attend there, and cannot pro<g ref="char:EOLhyphen"/>cure a tryall having nothing conſiderable laid to their charge, &amp;c.</p>
+            <p>
+               <hi>Col Lilburn, Major Sanderſon, and the reſt are diſcharged from any further attendance.</hi>
+            </p>
+            <p n="4">IV. That whereas we underſtand, that the Par<g ref="char:EOLhyphen"/>liament hath voted a ſudden disbanding of the Army, not having made ſufficient provi<g ref="char:EOLhyphen"/>ſion for the auditing of our arrears, makes us ſenſible; how difficult it will be after our diſ<g ref="char:EOLhyphen"/>banding, for obtaining thereof.</p>
+            <p>
+               <pb facs="tcp:160261:4"/>
+               <!-- PDF PAGE 89 -->
+               <hi>Both Houſes voted to referre it to the Com<g ref="char:EOLhyphen"/>mittee of the army, to conſider of Inſtructions for ſtating the Arriers, &amp;c.</hi>
+            </p>
+            <p n="5">V. That no proviſion hath been made for the payment of our dearly earned wages by the expence of our bloud, and often hazzard of our lives, that it will inevitably expoſe us (e<g ref="char:EOLhyphen"/>ſpecially the private Souldiers, to great ex<g ref="char:EOLhyphen"/>tremities) being hardly ſufficient to main<g ref="char:EOLhyphen"/>tain many of them in their journies to their own homes.</p>
+            <p>
+               <hi>The Commons have voted the common Soul<g ref="char:EOLhyphen"/>diery and inferiour Officers all their pay, and chiefe Officers three Moneths pay.</hi>
+            </p>
+            <p n="6">VI. That nothing as yet hath been perfected for our future ſecurity for things done as Souldiers, in relation to the warre, which the exigency thereof hath compelled thereunto, &amp;c.</p>
+            <p>
+               <hi>The Commons have voted to paſſe a fuller Ordinance for Indempnity of the Souldiers, and the Lords concurrence to be deſired.</hi>
+            </p>
+            <p n="7">
+               <pb facs="tcp:160261:4"/>
+               <!-- PDF PAGE 89 -->
+VII. That we ſtand in feare of being preſt, to ſerve as ſouldiers out of the Kingdome.</p>
+            <p>
+               <hi>Votes have paſſed, that ſuch as have willingly ſerved the Parliament ſhall not be forced to ſerve out of the Kingdome in any wars, &amp;c.</hi>
+            </p>
+            <p n="8">VIII. That the parliaments Declaration, in re<g ref="char:EOLhyphen"/>ſpect of freedome to thoſe that were Appren<g ref="char:EOLhyphen"/>tices, may be put in force againſt ſuch Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ts as refuſe it.</p>
+            <p>
+               <hi>Votes have paſſed for the making free of Ap<g ref="char:EOLhyphen"/>prentices, reckoaing the time ſpent in the Parlia<g ref="char:EOLhyphen"/>ments ſervice, as if they had been with their ma<g ref="char:EOLhyphen"/>sters.</hi>
+            </p>
+            <p n="9">IX. That many ſouldiers who have loſt their liues, widowes who have loſt their husbands and children their parents in this ſervice, &amp; thereby reduced to great extremities, even to beggary for want of proviſion for their ſubſiſtance, are not ſufficiently provided for a future livelyhood.</p>
+            <p>
+               <hi>May</hi> 28. <hi>An Ordinance paſſed both Houſes for reliefe of maymed ſouldiers, and the widowes and Orphants of ſuch as have dyed in the ſervice of the Parliament.</hi>
+            </p>
+            <p>
+               <pb facs="tcp:160261:5" rendition="simple:additions"/>
+               <!-- PDF PAGE 90 -->
+Having thus as fully as we are able, ac<g ref="char:EOLhyphen"/>counted &amp; mentioned what was the true <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>nuine <gap reason="illegible" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>e of the Army, and not their imaginary co<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ceits, but their grievances, that inevitably fall upon us, unleſſe the Parliament take courſe to prevent then: if the time allowed us by you would admit, we could more ful<g ref="char:EOLhyphen"/>ly demonſtrate. We aſſume the boldneſſe to intreat you to be deeply ſenſible of, and repreſent to the Parliament theſe particulars, in ſuch an humble way, and to right us if we ſhall be miſrepreſented to the Parliament by any, and ſo farre as you can cover our weakneſſes, that have or may ſlip from us, and prevent any ſcandals, that the malice of any men do ſeek herein to aſperſe us, when we ſhall be inquired into.</p>
+            <p>A Declaration, an Ordiance for oblivion, and other Papers alſo are to be ſent to the Army, and declared to them at a generall Randezvouzes.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:160261:6"/>
+            <!-- PDF PAGE 91 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
